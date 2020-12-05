@@ -1,4 +1,4 @@
-Run commands from directory where located project \n
+Run commands from directory where located project 
 
 
 For building use command:
